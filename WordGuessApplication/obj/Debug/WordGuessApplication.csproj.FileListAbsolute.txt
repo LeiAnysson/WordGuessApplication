@@ -1,0 +1,10 @@
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\WordGuessApplication.exe.config
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\WordGuessApplication.exe
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\bin\Debug\WordGuessApplication.pdb
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\WordGuessApplication.csproj.AssemblyReference.cache
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\WordGuessApplication.frmGuessWord.resources
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\WordGuessApplication.Properties.Resources.resources
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\WordGuessApplication.csproj.GenerateResource.cache
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\WordGuessApplication.csproj.CoreCompileInputs.cache
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\WordGuessApplication.exe
+C:\Users\leian\source\repos\WordGuessApplication\WordGuessApplication\obj\Debug\WordGuessApplication.pdb
